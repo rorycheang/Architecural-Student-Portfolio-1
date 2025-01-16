@@ -7,7 +7,7 @@ const data = {
         email: "rory.cheang@ucalgary.ca",
         phone: "+13068077106",
         linkedin: "https://www.linkedin.com/",
-        github: "https://www.github.com/",
+        github: "https://github.com/rorycheang",
     }
 }
 
