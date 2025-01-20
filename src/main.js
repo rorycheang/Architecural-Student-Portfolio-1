@@ -34,22 +34,22 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Cadavre Exquis
         <div class="three-model">
-        <a href="./public/Assignment 01/Exquisite corpse final.png" target="_blank">
-          <img src="./public/Assignment 01/Exquisite corpse final.png" id="model1" alt="Model 1 Image" />
+        <a href="./Assignment 01/Exquisite corpse final.png" target="_blank">
+          <img src="./Assignment 01/Exquisite corpse final.png" id="model1" alt="Model 1 Image" />
         </div>
         <div id="images-description">
           <div id="images">
-  <a href="./public/Assignment 01/Exquisite corpse final D2L3.png" target="_blank">
-    <img src="./public/Assignment 01/Exquisite corpse final D2L3.png" alt="cube1" />
+  <a href="./Assignment 01/Exquisite corpse final D2L3.png" target="_blank">
+    <img src="./Assignment 01/Exquisite corpse final D2L3.png" alt="cube1" />
   </a>
-  <a href="./public/Assignment 01/Exquisite corpse final D2L4.png" target="_blank">
-    <img src="./public/Assignment 01/Exquisite corpse final D2L4.png" alt="cube2" />
+  <a href="./Assignment 01/Exquisite corpse final D2L4.png" target="_blank">
+    <img src="./Assignment 01/Exquisite corpse final D2L4.png" alt="cube2" />
   </a>
-  <a href="./public/Assignment 01/Exquisite corpse final D2L5.png" target="_blank">
-    <img src="./public/Assignment 01/Exquisite corpse final D2L5.png" alt="cube3" />
+  <a href="./Assignment 01/Exquisite corpse final D2L5.png" target="_blank">
+    <img src="./Assignment 01/Exquisite corpse final D2L5.png" alt="cube3" />
   </a>
-  <a href="./public/Assignment 01/Exquisite corpse final D2L6.png" target="_blank">
-    <img src="./public/Assignment 01/Exquisite corpse final D2L6.png" alt="cube4" />
+  <a href="./Assignment 01/Exquisite corpse final D2L6.png" target="_blank">
+    <img src="./Assignment 01/Exquisite corpse final D2L6.png" alt="cube4" />
   </a>
 </div>
           <h4 id="description">"Fragments of Resilience: A Journey Through Identity and Belonging" - This Cadavre Exquis reflects resilience, identity, and change, created by bringing together pieces of memory, culture, and belonging. By layering maps, buildings, and human figures, I aimed to show the journey of facing the challenges of immigration and personal growth. The process taught me that resilience isn’t just about surviving but about blending scattered pieces into a whole. I realized that cultural identity is flexible, shaped by both the places we leave and those we enter, and that belonging is not a final destination but an ongoing journey. Creating this collage became a way to explore myself—accepting flaws, overlaps, and changes as part of a bigger story. This work celebrates the beauty in brokenness and the strength in rebuilding.
