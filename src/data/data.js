@@ -5,7 +5,7 @@ const data = {
     bio: "Bachelor's of Design in City Innovation student at University of Calgary's School of Architecture, Planning and Landscape, passionate in creating sustainable, equitable, and vibrant communities.",
     contact: {
         email: "rory.cheang@ucalgary.ca",
-        phone: "+13068077106",
+        phone: "+3068077106",
         linkedin: "https://www.linkedin.com/",
         github: "https://github.com/rorycheang",
     }
