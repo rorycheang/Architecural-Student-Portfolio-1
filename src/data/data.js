@@ -2,7 +2,7 @@
 
 const data = {
     name: "Rory Cheang",
-    bio: "Undergraduate Architectural Student at University of Calgary passionate about building tools to make homes more affordable.",
+    bio: "Bachelor's of Design in City Innovation student at University of Calgary's School of Architecture, Planning and Landscape, passionate in creating sustainable, equitable, and vibrant communities.",
     contact: {
         email: "rory.cheang@ucalgary.ca",
         phone: "+13068077106",
